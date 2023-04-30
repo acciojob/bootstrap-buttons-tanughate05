@@ -1,7 +1,24 @@
 
-/
-.btn-primary {
-    color: #212529;
-    background-color: #7cc;
-    border-color: #5bc2c2
+#button-2{
+	background-color:white;
+	color:grey;
+}
+#button-4{
+	background-color:red;
+	border-color:red;
+}
+#button-5{
+	background-color:yellow;
+	border-color:yellow;
+	color:black;
+}
+#button-6{
+	background-color:deepskyblue;
+	border-color:deepskyblue;
+	color:grey;
+}
+#button-7{
+	background-color:white;
+	border-color:white;
+	color:black;
 }
